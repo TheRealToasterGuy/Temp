@@ -33342,19 +33342,12 @@
 				{
 					"type": "noise",
 					"volume": 4,
-					"eqFilter": [
-						{
-							"type": "low-pass",
-							"cutoffHz": 9656.85,
-							"linearGain": 0.5
-						}
-					],
+					"eqFilter": [],
 					"eqFilterType": true,
 					"eqSimpleCut": 9,
 					"eqSimplePeak": 1,
 					"envelopeSpeed": 12,
 					"discreteEnvelope": false,
-					"eqSubFilters1": [],
 					"effects": [
 						"panning",
 						"chord type",
